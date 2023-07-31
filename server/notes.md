@@ -1,0 +1,8 @@
+- npm add express passport cookie-session cors nodemon mongoose
+- npm install passport-google-oauth20
+- npm install passport-github2
+- https://github.com/settings/applications/new : to create oauth in github
+- npm install passport-facebook
+- npm install passport-local
+- npm i bcryptjs
+- 
